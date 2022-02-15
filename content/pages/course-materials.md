@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Course Materials
-type: CourseSection
 uid: 360d78e0-0cee-73e3-a50d-05e13bac07be
 ---
 
