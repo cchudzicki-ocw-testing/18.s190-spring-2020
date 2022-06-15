@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section links to all of the course materials that are available
+  on the GitHub site developed for the course
 learning_resource_types: []
 ocw_type: CourseSection
 title: Course Materials

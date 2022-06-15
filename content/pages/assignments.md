@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section links to the homework assignments on the GitHub site developed
+  for the course
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
